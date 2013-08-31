@@ -1,0 +1,55 @@
+2013-05-19 13:26:07.328 Documents[1357:907]
+Documents 4.1 (4.1.0.14) 63adc30c442e+ Apr  3 2013
+iPad2 Wi-Fi iOS 6.1.3 RID1-rGRJ3AZd5cDGaBOdIWEmRnh7/7cA=
+lang:en locale:en_GB
+2013-05-19 13:26:07.330 Documents[1357:907] - - - VERBOSE LOG OFF - - -
+2013-05-19 13:26:07.948 Documents[1357:907] Application windows are expected to have a root
+view controller at the end of application launch
+2013-05-19 13:26:08.137 Documents[1357:8a0b] BugSense --> Server responded with status
+code: 200
+2013-05-19 13:26:28.802 Documents[1357:907] started background sync task 0
+2013-05-19 13:26:28.829 Documents[1357:6103] BugSense --> Posting analytics data...
+2013-05-19 13:26:29.245 Documents[1357:8a0b] BugSense --> Server responded with status
+code: 200
+2013-05-19 13:26:36.919 Documents[1357:a0f7] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-
+91C0CFB90756/Utorrent/CandyCrushCheat Engine/Candy Crush Saga Hack-1.exe'.
+2013-05-19 13:26:36.925 Documents[1357:4e23] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-
+91C0CFB90756/Utorrent/CandyCrushCheat Engine'.
+2013-05-19 13:26:37.097 Documents[1357:a0f7] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/Set
+up/examples/HelloDropbox/res/Pussbook.m3u'.
+2013-05-19 13:26:37.102 Documents[1357:4e23] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/Set
+up/examples/HelloDropbox/res/libDropboxSync.so'.
+2013-05-19 13:26:37.111 Documents[1357:6103] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/Set
+up/examples/HelloDropbox/res/Candy Crush Saga Hack-1.exe'.
+2013-05-19 13:26:37.198 Documents[1357:4e23] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-
+91C0CFB90756/Candy/setup/TempPE'.
+2013-05-19 13:26:39.810 Documents[1357:4e23] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/Candy/setup'.
+2013-05-19 13:26:40.138 Documents[1357:a703] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-
+91C0CFB90756/Candy/Flashplayer'.
+2013-05-19 13:26:40.296 Documents[1357:6103] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/Candy/Apple'.
+2013-05-19 13:26:40.334 Documents[1357:a703] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/Candy'.
+2013-05-19 13:26:40.557 Documents[1357:a703] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/Camera
+Uploads/upload'.
+2013-05-19 13:26:41.782 Documents[1357:a0f7] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/all'.
+2013-05-19 13:36:55.780 Documents[1357:b307] BugSense --> Posting analytics data...
+2013-05-19 13:36:56.074 Documents[1357:8a0b] BugSense --> Server responded with status
+code: 200
+2013-05-19 13:37:00.835 Documents[1357:a70b] WARNING: deleteFileWithName can not obtain
+file info for file 'local:/.storageSync/77FE9CE1-B57A-4C54-B413-91C0CFB90756/FFS/Sammy's
+Cheats.exe'.
+2013-05-19 13:37:36.659 Documents[1357:a70b] BugSense --> Posting analytics data...
+2013-05-19 13:37:36.841 Documents[1357:8a0b] BugSense --> Server responded with status
+code: 200
+2013-05-19 14:45:03.631 Documents[1656:907]
